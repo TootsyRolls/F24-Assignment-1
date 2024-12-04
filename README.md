@@ -1,1 +1,2 @@
-# F24-Assignment-1
+# F24-Assignments
+ASSIGNMENTS SEPERATED BY BRANCHES
